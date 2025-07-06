@@ -1,4 +1,4 @@
-TXD:	EQU 	0014H
+TXD	EQU 	0014H
 RXD	EQU	001FH
                   ORG 8000H
 ;----------- HEADER ---------------
